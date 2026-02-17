@@ -1,0 +1,10 @@
+{
+  "name": "riverbraun.com",
+  "version": "1.0.0",
+  "description": "Travel content strategy and writing — River Braun",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public -l 3000",
+    "start": "npx serve public"
+  }
+}

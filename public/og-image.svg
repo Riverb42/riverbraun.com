@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#1A1A18"/>
+  
+  <!-- Subtle accent line -->
+  <rect x="80" y="200" width="60" height="2" fill="#C4704B"/>
+  
+  <!-- Name -->
+  <text x="80" y="290" font-family="Georgia, 'Cormorant Garamond', serif" font-size="72" font-weight="400" fill="#F5F0E8" letter-spacing="-1">River Braun</text>
+  
+  <!-- Tagline -->
+  <text x="80" y="350" font-family="'Helvetica Neue', 'DM Sans', sans-serif" font-size="24" font-weight="300" fill="#C4704B" letter-spacing="3">TRAVEL CONTENT STRATEGY &amp; WRITING</text>
+  
+  <!-- Description -->
+  <text x="80" y="420" font-family="'Helvetica Neue', 'DM Sans', sans-serif" font-size="22" font-weight="300" fill="rgba(245, 240, 232, 0.5)">Content strategy and SEO-driven storytelling for</text>
+  <text x="80" y="452" font-family="'Helvetica Neue', 'DM Sans', sans-serif" font-size="22" font-weight="300" fill="rgba(245, 240, 232, 0.5)">tourism boards, hotels, and tour operators.</text>
+  
+  <!-- Domain -->
+  <text x="80" y="550" font-family="'Helvetica Neue', 'DM Sans', sans-serif" font-size="16" font-weight="400" fill="rgba(245, 240, 232, 0.3)" letter-spacing="2">RIVERBRAUN.COM</text>
+  
+  <!-- Corner accent -->
+  <rect x="1120" y="0" width="80" height="4" fill="#C4704B"/>
+  <rect x="1196" y="0" width="4" height="80" fill="#C4704B"/>
+</svg>
